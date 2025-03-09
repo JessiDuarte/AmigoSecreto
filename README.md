@@ -1,14 +1,17 @@
+Proyecto: Amigo Secreto
 Descripción
-El proyecto "Amigo Secreto" es una aplicación web que permite organizar y realizar el tradicional juego de amigo secreto de manera digital. Los usuarios pueden ingresar sus nombres, asignar amigos secretos y participar en el intercambio de regalos de forma divertida y automática.
+"Amigo Secreto" es una aplicación web para organizar y realizar el tradicional juego de amigo secreto de manera digital. Permite a los usuarios ingresar los nombres de sus amigos, hacer un sorteo aleatorio para asignar un amigo secreto y ver los resultados de manera sencilla y accesible.
 
-Tecnologías utilizadas
+Características principales:
 
-HTML
-CSS
-JavaScript
-Características
-
-Los usuarios pueden registrarse con su nombre.
-El sistema asigna aleatoriamente a un "amigo secreto" para cada participante.
-Los usuarios pueden ver su amigo secreto sin revelar la identidad de los demás.
+Permite ingresar nombres de amigos para el sorteo.
+Realiza un sorteo aleatorio asegurando que nadie se asigne como su propio amigo secreto.
+Muestra los resultados de los sorteos de manera ordenada.
 Interfaz amigable y fácil de usar.
+Tecnologías utilizadas
+HTML: Estructura básica de la página web.
+CSS: Estilizado y diseño responsivo.
+JavaScript: Funcionalidad para agregar amigos, realizar el sorteo aleatorio y mostrar los resultados.
+
+
+
